@@ -16,7 +16,12 @@ If you find this repository useful for your research, please consider citing our
 
 ```bibtex
 @InProceedings{10.1007/978-981-92-3513-1_32,
-  author    = {Shuling Zheng and Zhan Li and Zhanglu Chen and Yinglue Yang and Zhiheng Fu and Feng Zhang},
+  author    = {Zheng, Shuling
+               and Li, Zhan
+               and Chen, Zhanglu
+               and Yang, Yinglue
+               and Fu, Zhiheng
+               and Zhang, Feng},
   title     = {VLGDiff: A Vision-Language Guided Diffusion Model for Image Inpainting},
   booktitle = {Advanced Intelligent Computing Technology and Applications},
   publisher = {Springer Nature Singapore},
